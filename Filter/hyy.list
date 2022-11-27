@@ -1,0 +1,35 @@
+# UPDATE AT 2022.11.27
+
+# > 七猫
+DOMAIN-SUFFIX,qm989.com,REJECT
+
+# > 头条
+DOMAIN-SUFFIX,pglstatp-toutiao.com,REJECT
+
+# > 友盟
+DOMAIN-SUFFIX,umengcloud.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+
+# > 穿山甲广告
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
+
+# > 美团
+DOMAIN-SUFFIX,data-sdk-uuid-report.dreport.meituan.net,REJECT
+DOMAIN-SUFFIX,portal-portm.meituan.com,REJECT
+
+# > 高德
+DOMAIN-SUFFIX,amap-aos-info-nogw.amap.com,REJECT
+
+# > 10010
+DOMAIN-SUFFIX,smartad.10010.com,REJECT
+DOMAIN-SUFFIX,analytics.10010.com,REJECT
+DOMAIN-SUFFIX,analytics2.10010.com,REJECT
+DOMAIN-SUFFIX,m1.ad.10010.com,REJECT
+
+# > 钉钉
+DOMAIN-SUFFIX,static.dingtalk.com,REJECT
+DOMAIN-SUFFIX,loggw-ex.alipay.com,REJECT
+
+# > 其它
+DOMAIN-SUFFIX,ada.baidu.com,REJECT
+DOMAIN-SUFFIX,bugly.qq.com,REJECT
