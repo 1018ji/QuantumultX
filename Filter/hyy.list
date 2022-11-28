@@ -27,7 +27,6 @@ DOMAIN-SUFFIX,analytics2.10010.com,REJECT
 DOMAIN-SUFFIX,m1.ad.10010.com,REJECT
 
 # > 钉钉
-DOMAIN-SUFFIX,static.dingtalk.com,REJECT
 DOMAIN-SUFFIX,loggw-ex.alipay.com,REJECT
 
 # > 其它
